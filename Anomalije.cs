@@ -4,7 +4,7 @@ using System.Collections;
 using System.ComponentModel;
 using System.Windows.Forms;
 using System.Data;
-
+//
 namespace Parovic.Akuserstvo
 {
 	/// <summary>
@@ -267,7 +267,7 @@ namespace Parovic.Akuserstvo
         "Hygroma colli cysticum",
         "Nuchal oedema",
         "Nuchal translucency",
-        "Struma (gušavost)",
+        "Struma (guÂšavost)",
         "Teratoma reg. colli"};
             this.clVrat.TabIndex = 23;
             // 
@@ -500,7 +500,7 @@ namespace Parovic.Akuserstvo
         "Fibrosis cystica",
         "Hemangioma in hepatae",
         "Hepatomegalio",
-        "Hiršprungova bolest",
+        "HirÂšprungova bolest",
         "Mekonijalni peritonitis",
         "Obstrukcija creva",
         "Septatio vesicae felleae",
@@ -530,7 +530,7 @@ namespace Parovic.Akuserstvo
         "Body stalk anomaly (anomalija telesnog stabla )",
         "Diafragmalna hernia",
         "Exstrophio vesicae urinariae et cloacae",
-        "Gastroshisis (Gastrošiza)",
+        "Gastroshisis (GastroÂšiza)",
         "Omphalocoela",
         "Pentalogio Cantrel"};
             this.clAbdomen.TabIndex = 0;
@@ -611,7 +611,7 @@ namespace Parovic.Akuserstvo
         "Meckelov syndrom",
         "Megaureter",
         "Megaurethra",
-        "Megavesica (Megabešika)",
+        "Megavesica (MegabeÂšika)",
         "Multicisticni bubrezi",
         "Obstrukcija ureteropelvicnog spoja",
         "Posteriorna (zadnja uretralna valvula )",
@@ -863,12 +863,12 @@ namespace Parovic.Akuserstvo
                         new System.Data.Common.DataColumnMapping("Displazija skeleta", "Displazija skeleta"),
                         new System.Data.Common.DataColumnMapping("Gastrointestilni trakt", "Gastrointestilni trakt"),
                         new System.Data.Common.DataColumnMapping("Genitalni trakt", "Genitalni trakt"),
-                        new System.Data.Common.DataColumnMapping("Grudni koš", "Grudni koš"),
+                        new System.Data.Common.DataColumnMapping("Grudni koÂš", "Grudni koÂš"),
                         new System.Data.Common.DataColumnMapping("Kicmeni stub", "Kicmeni stub"),
                         new System.Data.Common.DataColumnMapping("Lice", "Lice"),
                         new System.Data.Common.DataColumnMapping("Ostalo", "Ostalo"),
                         new System.Data.Common.DataColumnMapping("Pupcana vrpca", "Pupcana vrpca"),
-                        new System.Data.Common.DataColumnMapping("Šaka i stopalo", "Šaka i stopalo"),
+                        new System.Data.Common.DataColumnMapping("ÂŠaka i stopalo", "ÂŠaka i stopalo"),
                         new System.Data.Common.DataColumnMapping("Skelet", "Skelet"),
                         new System.Data.Common.DataColumnMapping("Srce", "Srce"),
                         new System.Data.Common.DataColumnMapping("Urinarni trakt", "Urinarni trakt"),
